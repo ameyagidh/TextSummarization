@@ -2,12 +2,12 @@
 
 ### Work flow
 1) Templates.py create all your directories
-2) Setup.py to set up all the
-3) setup.py to add th
-2) Update config.yaml
-2) Update params.yaml
-3) update entity
-4) update the configuration manager in src config
-5) update the components
-6) update Pipeline
-7) 
+2) Setup.py to set up all the github and app names and fix the utils common folder
+3) Update config.yaml 
+4) Update params.yaml
+5) update entity
+6) update the configuration manager in src config
+7) update the components
+8) update Pipeline
+7) Main.py
+8) app.py
