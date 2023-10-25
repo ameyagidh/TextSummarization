@@ -4,10 +4,10 @@ datasets
 sacrebleu 
 rouge_score 
 py7zr
-pandas
-nltk
+pandas~=2.0.3
+nltk~=3.8.1
 tqdm
-PyYAML
+PyYAML~=6.0
 matplotlib
 torch
 notebook
@@ -18,3 +18,7 @@ ensure==1.0.2
 fastapi==0.78.0
 uvicorn==0.18.3
 Jinja2==3.1.2
+yaml~=0.2.5
+typing~=3.10.0.0
+scikit-learn~=1.2.2
+setuptools~=68.2.2
